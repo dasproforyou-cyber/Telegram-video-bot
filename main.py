@@ -2,7 +2,7 @@ import os
 import telebot
 import yt_dlp
 
-BOT_TOKEN = os.getenv("8113362819:AAHvdxS86fgXajwbqhmsMilVs7P1HoFqTkM")
+BOT_TOKEN = os.getenv("8113362819:AAGFCL1gG33Iur1gctP9MdOrCVrneF5I5D0")
 if not BOT_TOKEN:
     raise RuntimeError("TELEGRAM_BOT_TOKEN topilmadi")
 
